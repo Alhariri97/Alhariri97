@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul,rahman Alhariri</h1>
+<h1 align="center">Hi 👋, I'm Abdulrahman Alhariri</h1>
 <h3 align="center">A Full-stack developer and Computer Science student at Teesside University</h3>
 
 - 🌱 I’m currently learning **Java, PHP**
