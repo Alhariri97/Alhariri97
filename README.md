@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://devabdul.com/files/Abdulrahman%20Alhariri.pdf](https://devabdul.com/files/Abdulrahman%20Alhariri.pdf)
 
-- ⚡ Fun fact ** "418 I'm a teapot" this is was the first team name I collaborated to, we did great though  :)** 
+- ⚡ Fun fact  **"418 I'm a teapot" was the name of the first team I collaborated to, we did great though  :)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
