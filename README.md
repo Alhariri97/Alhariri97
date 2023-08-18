@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **a real world project.**
 
-- 👨‍💻 All of my projects are available at [https://devabdulrahman.netlify.app/]([https://devabdulrahman.netlify.app/](https://devabdulrahman.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://devabdulrahman.netlify.app/](https://devabdulrahman.netlify.app/)
 
 - 💬 Ask me about **Javascript, Python, React**
 
 - 📫 How to reach me **19abdul97@gmial.com**
 
-- 📄 Know about my experiences [https://devabdul.com/files/Abdulrahman%20Alhariri.pdf](https://devabdul.com/files/Abdulrahman%20Alhariri.pdf)
+- 📄 Know about my experiences [have a look at my CV]([https://devabdul.com/files/Abdulrahman%20Alhariri.pdf](https://devabdulrahman.netlify.app/files/Abdulrahman%20Alhariri%20CV%20(1).pdf))
 
 - ⚡ Fun fact  **"418 I'm a teapot" was the name of the first team I collaborated to, we did great though  :)** 
 
