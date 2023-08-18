@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **19abdul97@gmial.com**
 
-- 📄 Know about my experiences [have a look at my CV](https://devabdul.com/files/Abdulrahman%20Alhariri.pdf](https://devabdulrahman.netlify.app/files/Abdulrahman%20Alhariri%20CV%20(1).pdf))
+- 📄 Know about my experiences [have a look at my CV](https://devabdulrahman.netlify.app/files/Abdulrahman%20Alhariri%20CV%20(1).pdf)
 
 - ⚡ Fun fact  **"418 I'm a teapot" was the name of the first team I collaborated to, we did great though  :)** 
 
