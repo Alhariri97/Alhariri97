@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **a real world project.**
 
-- 👨‍💻 All of my projects are available at [devabdul.com](devabdul.com)
+- 👨‍💻 All of my projects are available at [https://devabdulrahman.netlify.app/]([devabdul.com](https://devabdulrahman.netlify.app/))
 
 - 💬 Ask me about **Javascript, Python, React**
 
