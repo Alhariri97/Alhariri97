@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul,rahman Alhariri</h1>
-<h3 align="center">A Full-stack developer and Computer Science student at Teesside University</h3>
+<h3 align="center">A Full-stack Application developer at iThink365 and Computer Science student at Teesside University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhariri97&label=Profile%20views&color=0e75b6&style=flat" alt="alhariri97" /> </p>
 
