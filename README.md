@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [devabdulrahman.netlify.app/](https://devabdulrahman.netlify.app/)
 
-- 💬 Ask me about **Javascript, Python, React**
+- 💬 Ask me about **Java, C#, Javascript, Python**
 
 - 📫 How to reach me **19abdul97@gmial.com**
 
