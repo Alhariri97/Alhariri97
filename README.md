@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
-- 👯 I’m looking to collaborate on **a real world project.**
+/* - 👯 I’m looking to collaborate on **a real world project.** */
 
 - 👨‍💻 All of my projects are available at [devabdulrahman.netlify.app/](https://devabdulrahman.netlify.app/)
 
