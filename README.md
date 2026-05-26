@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul,rahman Alhariri</h1>
+<h1 align="center">Hi 👋, I'm Abdul-rahman Alhariri</h1>
 <h3 align="center">Full-Stack Application Developer at iThink365 | Holds a BSc in Computer Science from Teesside University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhariri97&label=Profile%20views&color=0e75b6&style=flat" alt="alhariri97" /> </p>
